@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 
+
+## 🏅 Certifications
+
+[![AWS Certified Cloud Practitioner – Foundational](https://images.credly.com/size/340x340/images/8a3e7e55-4c4f-4e8c-bd73-61b2b0d7c0b4/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/1a414bf9-8103-493c-9368-23703d6b32a6/public_url)
+
 
 <!--
 **yangmw7/yangmw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
