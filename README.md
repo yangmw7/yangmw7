@@ -8,8 +8,8 @@
 
 <div align="center">
   
-[![AWS Cloud Practitioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/1a414bf9-8103-493c-9368-23703d6b32a6/public_url)
-[![AWS Solutions Architect Associate](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/dd3e33da-dd5d-4b6c-907c-dcaa8146eaa7/public_url)
+[![AWS Cloud Practitioner](https://images.credly.com/size/140x140/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/1a414bf9-8103-493c-9368-23703d6b32a6/public_url)
+[![AWS Solutions Architect Associate](https://images.credly.com/size/140x140/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/dd3e33da-dd5d-4b6c-907c-dcaa8146eaa7/public_url)
 
 **AWS Certified Cloud Practitioner** | **AWS Certified Solutions Architect - Associate**
 
